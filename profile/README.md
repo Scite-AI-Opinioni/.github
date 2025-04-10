@@ -1,5 +1,5 @@
-<h1>Scite AI Opinioni (Test 2025) : l'assistente IA per la ricerca scientifica è davvero efficace?</h1>
-<p><strong>Scite AI Opinioni</strong> | <time datetime="2025-04-10">April 10,2025</time></p>
+<h1>Scite AI recensioni Test : l'assistente IA per la ricerca scientifica è davvero efficace?</h1>
+<p><strong>Scite AI recensioni</strong> | <time datetime="2025-04-10">April 10,2025</time></p>
 <img src="https://pg.edu.pl/files/styles/aktualnosci_pelny/public/2025-02/Format32%20%282%29_0.png?itok=udj2dzRr"
   alt="comparative with Scite ai "
   width="650"
