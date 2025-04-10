@@ -6,9 +6,9 @@
   height="450"
 />
 
-<a target="_blank" href="https://scite.ai/?via=new">Click here to have free access !</a>
+<a target="_blank" href="https://scite.ai/?via=new">Clicca qui per avere accesso!</a>
 
-<a target="_blank" href="https://scite.ai/?via=new">Click here to have free access !</a>
+<a target="_blank" href="https://scite.ai/?via=new">Clicca qui per avere accesso!</a>
 
 
 
@@ -17,7 +17,7 @@
 <h2>Cos’è Scite AI e come funziona?</h2>  
 <p>Scite AI è uno strumento innovativo basato sull'intelligenza artificiale progettato per valutare affidabilità e rilevanza delle citazioni scientifiche. A differenza dei tradizionali indici bibliometrici, Scite AI non si limita a contare semplicemente il numero di citazioni, ma ne analizza il contesto reale nei documenti di ricerca. Tramite algoritmi NLP evoluti, riconosce se una fonte supporta, contrasta o menziona semplicemente un'affermazione scientifica, permettendo così ai ricercatori di identificare rapidamente informazioni cruciali e verificate.</p>
 
-<a target="_blank" href="https://scite.ai/?via=new">Click here to have free access !</a>
+<a target="_blank" href="https://scite.ai/?via=new">Clicca qui per avere accesso !</a>
 
 <p>Il funzionamento di Scite AI segue tre passaggi principali:</p>
 <ul>
@@ -30,7 +30,7 @@
 <h3>Analisi intelligente delle citazioni scientifiche</h3>  
 <p>Il metodo sviluppato da Scite AI rappresenta una vera svolta rispetto alle soluzioni esistenti (come Semantic Scholar o Consensus), poiché fornisce non solo un quadro numerico, ma anche un'analisi qualitativa delle citazioni. Questo approccio permette ai ricercatori di ottenere una comprensione approfondita delle dinamiche accademiche e dell'effettivo impatto scientifico di un articolo.</p>
 
-<a target="_blank" href="https://scite.ai/?via=new">Click here to have free access !</a>
+<a target="_blank" href="https://scite.ai/?via=new">Clicca qui per avere accesso !</a>
 
 <h3>Indicatore delle citazioni affidabili e contrastanti</h3>  
 <p>Una peculiarità di Scite AI riguarda la capacità di mostare chiaramente quali informazioni siano supportate oppure contestate da altri autori. Ad esempio, se un'affermazione su una terapia medica è supportata dal 90% degli articoli e risulta contestata dal restante 10%, i ricercatori riescono immediatamente a riconoscere eventuali controversie o consensi consolidati. Tale funzione rappresenta una reale novità che altri strumenti, come Elicit o ResearchRabbit, non integrano direttamente.</p>
@@ -45,7 +45,7 @@
   height="450"
 />
 
-<a target="_blank" href="https://scite.ai/?via=new">Click here to have free access !</a>
+<a target="_blank" href="https://scite.ai/?via=new">Clicca qui per avere accesso !</a>
 
 
 <p>Di seguito un confronto sintetico tra Scite AI e alcune piattaforme simili:</p>  
@@ -86,7 +86,7 @@
 
 <p>Scite AI rappresenta senza dubbio un passo avanti nell'ambito della ricerca scientifica assistita da intelligenza artificiale. La piattaforma permette agli utenti di verificare rapidamente la profondità delle fonti attraverso l'analisi automatizzata delle citazioni, distinguendo quelle a supporto, neutre o contrarie.</p>
 
-<a target="_blank" href="https://scite.ai/?via=new">Click here to have free access !</a>
+<a target="_blank" href="https://scite.ai/?via=new">Clicca qui per avere accesso !</a>
 
 <p>Tuttavia, dagli utenti emergono alcuni punti che potrebbero essere migliorati. Alcuni ricercatori segnalano occasionali lacune nella precisione interpretativa, soprattutto in lavori multidisciplinari complessi, che richiedono ancora intervento umano per una conferma definitiva.</p>
 
@@ -144,7 +144,7 @@
 
 <p>Le piattaforme basate sull'intelligenza artificiale stanno ridisegnando il panorama della ricerca scientifica: dopo Scite AI, diverse alternative valide permettono di semplificare significativamente il lavoro di studiosi e accademici. Esaminiamo le principali caratteristiche delle altre soluzioni disponibili.</p>
 
-<a target="_blank" href="https://scite.ai/?via=new">Click here to have free access !</a>
+<a target="_blank" href="https://scite.ai/?via=new">Clicca qui per avere accesso !</a>
 
 <h3>Semantic Scholar: Ricerca accademica assistita da IA</h3>
 
@@ -170,14 +170,14 @@
 
 <p>Iris.ai rappresenta una soluzione innovativa offrendo mappe grafiche che mostrano nel dettaglio relazioni e collegamenti tra lavori di ricerca. Gli utenti possono individuare rapidamente i gap conoscitivi nella bibliografia disponibile. A differenza di piattaforme come Scite AI, Iris.ai adotta un approccio visivo fortemente orientato alla scoperta intuitiva delle informazioni.</p>
 
-<a target="_blank" href="https://scite.ai/?via=new">Click here to have free access !</a>
+<a target="_blank" href="https://scite.ai/?via=new">Clicca qui per avere accesso!</a>
 
 <h3>Consensus: Risposte dirette basate su evidenze scientifiche</h3>
 
 <p>Consensus offre un'esperienza utente focalizzata sulla rapidità e sulla precisione delle informazioni. Non solo identifica rapidamente gli studi rilevanti, ma estrae informazioni sintetizzando risposte dirette basate su evidenze scientifiche empiricamente certe. Per coloro che cercano chiarezza immediata senza analisi estese, Consensus rappresenta un'alternativa di grande valore rispetto agli strumenti più tradizionali come Scite AI.</p>
 
-<a target="_blank" href="https://scite.ai/?via=new">Click here to have free access !</a>
+<a target="_blank" href="https://scite.ai/?via=new">Clicca qui per avere accesso !</a>
 
 <p>Ognuna di queste piattaforme integra funzioni uniche, consentendo ai ricercatori una scelta mirata in funzione delle proprie esigenze specifiche. L'insieme di tali soluzioni IA dimostra chiaramente l'evoluzione e la crescente personalizzazione degli strumenti dedicati alla ricerca scientifica.</p>
 
-<a target="_blank" href="https://scite.ai/?via=new">Click here to have free access !</a>
+<a target="_blank" href="https://scite.ai/?via=new">Clicca qui per avere accesso !</a>
